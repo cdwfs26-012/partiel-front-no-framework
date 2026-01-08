@@ -14,5 +14,13 @@
     "email": "sophie@exemple.fr",
     "note": 4,
     "avis": "Isolation thermique efficace, j'ai déjà gagné 2 degrés cet hiver."
+  },
+  {
+    "nom": "Julie",
+    "prenom": "Charles",
+    "ville": "Mainvilliers",
+    "email": "julie@exemple.fr",
+    "note": 2,
+    "avis": "Ne m’a jamais recontacté."
   }
 ]

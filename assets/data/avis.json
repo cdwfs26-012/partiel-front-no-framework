@@ -1,0 +1,18 @@
+[
+  {
+    "nom": "Dupont",
+    "prenom": "Jean",
+    "ville": "Chartres",
+    "email": "jean@exemple.fr",
+    "note": 5,
+    "avis": "Excellent travail de peinture dans mon salon, équipe ponctuelle et propre."
+  },
+  {
+    "nom": "Martin",
+    "prenom": "Sophie",
+    "ville": "Lucé",
+    "email": "sophie@exemple.fr",
+    "note": 4,
+    "avis": "Isolation thermique efficace, j'ai déjà gagné 2 degrés cet hiver."
+  }
+]
